@@ -1,5 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title>Visionary Contractors</title>
 </head>
+<body>
+	<div id="header">
+		<p>Visionary Contractors</p>
+		<p>The Smallest Things Make the biggest difference</p>
+		<p>Contact Now</p>
+		<p>Mobile: 843-229-3343</p>
+		<p>Office: 843-629-9504</p>
+	</div>
+	<div id="menu">
+		<ul>
+			<li>Home</li>
+			<li>Services</li>
+			<li>Testimonials</li>
+			<li>About</li>
+			<li>Contact</li>
+		</ul>
+	</div>
+</body>
 </html>
