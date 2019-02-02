@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Visionary Contractors</title>
+	<title>Jenkins Contractors</title>
 </head>
 <body>
 	<div id="header">
-		<p>Visionary Contractors</p>
-		<p>The Smallest Things Make the biggest difference</p>
+		<h1>Jenkins Contractors</h1>
+		<h3>Quality is Our Trademark</h3>
 		<p>Contact Now</p>
 		<p>Mobile: 843-229-3343</p>
 		<p>Office: 843-629-9504</p>
@@ -20,5 +20,12 @@
 			<li>Contact</li>
 		</ul>
 	</div>
+	<div id="Home">
+		<p>Jenkins Contractors is located in Charlotte North Carolina. We also service the Hickory and Fort Mill areas. We specialize in remodels. We will take your idea and make it real. Please reach out to us for any job. We will have one of our representatives come do a consultation and do a same day estimate.</p>
+	</div>
+	<div id="Services"></div>
+	<div id="Testimonials"></div>
+	<div id="About"></div>
+	<div id="Contact"></div>
 </body>
 </html>
